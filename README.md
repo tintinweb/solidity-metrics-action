@@ -1,6 +1,16 @@
-# Solidity Metrics Action
+[<img width="200" alt="get in touch with Consensys Diligence" src="https://user-images.githubusercontent.com/2865694/56826101-91dcf380-685b-11e9-937c-af49c2510aa0.png">](https://diligence.consensys.net)<br/>
+<sup>
+[[  🌐  ](https://diligence.consensys.net)  [  📩  ](https://github.com/ConsenSys/vscode-solidity-metrics/blob/master/mailto:diligence@consensys.net)  [  🔥  ](https://consensys.github.io/diligence/)]
+</sup><br/><br/>
 
-Generate a Solidity Code Metrics HTML-Report for your Project.
+
+# Solidity Metrics GitHub Action
+
+Generate a Solidity Code Metrics HTML-Report for your Project. 
+
+<sup>
+Powered by <a href=https://www.npmjs.com/package/solidity-code-metrics>solidity-code-metrics</a>.
+</sup>
 
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/2865694/179468873-fe7c5055-39a8-44f2-9a11-cc7ff467098b.png">
 
