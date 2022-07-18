@@ -52,3 +52,6 @@ jobs:
           name: metrics.html
           path: ${{ steps.metrics.outputs.report }}
 ```
+
+<img width="495" alt="image" src="https://user-images.githubusercontent.com/2865694/179473168-49b31ce3-4ef2-419b-aea8-e062e6674cbf.png">
+
