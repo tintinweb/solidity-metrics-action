@@ -4,7 +4,7 @@ Generate a Solidity Code Metrics HTML-Report for your Project.
 
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/2865694/179468873-fe7c5055-39a8-44f2-9a11-cc7ff467098b.png">
 
-
+[Sample Report (html)](./sample/__metrics.html)
 
 ## Usage
 
@@ -12,7 +12,7 @@ Include it in your GitHub Actions file after a checkout.
 
 ```yaml
 - name: 📊 Crunch Numbers
-  uses: tintinweb/solidity-metrics-action@master
+  uses: tintinweb/solidity-metrics-action@v1
   id: metrics
   with:
       target: '{,**/}*.sol'
@@ -43,7 +43,7 @@ jobs:
       - name: Setup
         uses: actions/checkout@v3
       - name: 📊 Crunch Numbers
-        uses: tintinweb/solidity-metrics-action@master
+        uses: tintinweb/solidity-metrics-action@v1
         id: metrics
         with:
           target: '{,**/}*.sol'
