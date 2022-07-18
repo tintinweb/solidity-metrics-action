@@ -2,6 +2,10 @@
 
 Generate a Solidity Code Metrics HTML-Report for your Project.
 
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/2865694/179468873-fe7c5055-39a8-44f2-9a11-cc7ff467098b.png">
+
+
+
 ## Usage
 
 Include it in your GitHub Actions file after a checkout.
